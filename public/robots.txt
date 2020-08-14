@@ -1,3 +1,13 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+User-agent: Googlebot
+Disallow:/downloadComplete
+Disallow:/download/
+
+User-agent: BingBot
+Disallow:/downloadComplete
+Disallow:/download/
+
+User-agent: BingPreview
+Disallow:/downloadComplete
+Disallow:/download/
+
+Sitemap: https://justicecoin.org/sitemap.xml
