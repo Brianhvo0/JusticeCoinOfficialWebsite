@@ -44,6 +44,5 @@ function AdminAuth(props) {
         </div>
     </>);
 }
-//lets see if shrey joshi the god notices this!!!! :D
 
 export default AdminAuth;
